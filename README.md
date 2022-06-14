@@ -3,7 +3,7 @@ Survival analysis using the Haberman's dataset
 
 Survival analysis also known as time-to-event analysis is a branch in statistics whose approach is used to investigate the time it takes for an event to occur. Survival analysis is used in various fields such as:
 
-- Medical: Understanding patient’s survival when diagnosed with a deadly disease.
+- Medical: Understanding patient’s survival when diagnosed with a fatal disease.
 - Industry:Failure- time analysis of a product.
 - Human resource: When an employee would leave a company (churn).
 There are various methods used in survival analysis to understand the time to event data. Here, we are going to learn, the following types of models and try to understand their mechanism in time to event analysis.
