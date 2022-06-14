@@ -10,6 +10,9 @@ There are various methods used in survival analysis to understand the time to ev
 
 If you are a new to survival analysis and/or wish to understand better as to what survival analysis entails, I'd suggest the following reading materials.
 
-https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_survival/BS704_Survival_print.html
-https://boostedml.com/2018/11/when-should-you-use-non-parametric-parametric-and-semi-parametric-survival-analysis.html?utm_source=pocket_mylist
-https://data.princeton.edu/wws509/notes/c7s1
+- https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_survival/BS704_Survival_print.html
+- https://boostedml.com/2018/11/when-should-you-use-non-parametric-parametric-and-semi-parametric-survival-analysis.html?utm_source=pocket_mylist
+- https://data.princeton.edu/wws509/notes/c7s1
+
+## Aim of the project
+The aim of the project is to predict whether the patient will survive after 5 years or not depending on the patient's age, year of operation and positive auxilliary nodes.
